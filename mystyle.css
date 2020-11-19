@@ -1,0 +1,157 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: gray;
+}
+.wrapper{
+	width: 620px;
+	height: 787px;
+	margin-top: 7px;
+	margin-left: 300px;
+    background-color: black;
+}
+.clear{clear: both;}
+.image1{
+	width: 315px;
+	height: 490px;
+	float: left;
+}
+.logo{
+	height: 400px;
+	width: 315px;
+	float: left;
+}
+p{color: white;
+	font-size: 11px;
+	font-family: verdana;
+	font-weight: bold;
+}
+.home{margin-left: 7px;
+	width: 51px;
+	height: 46px;
+	margin-top: 7px;
+}
+.shows{margin-left: 8px;
+	width: 51px;
+	height: 46px;
+}
+.bio{margin-left: 8px;
+	width: 51px;
+	height: 46px;
+}
+.gallery{margin-left: 8px;
+	width: 51px;
+	height: 46px;
+}
+.tour{margin-left: 8px;
+	width: 51px;
+	height: 46px;
+}
+.htext{
+	margin-left: 12px;
+}
+.stext{
+	margin-left: 72px;	
+	margin-top: -13px;
+}
+.btext{margin-left: 146px;
+	margin-top: -13px;
+}
+.gtext{margin-left: 194px;
+	margin-top: -13px;
+}
+.ttext{margin-left: 267px;
+	margin-top: -13px;
+}
+.body1{
+	width: 316px;
+	height: 298px;
+	background-color: #656565;
+}
+.ln{
+	width: 195px;
+	height: 26px;
+	margin-top: 9px;
+	margin-left: 54px;
+	float: left;
+}
+.body1text{
+	text-align: left;
+	color: white;
+	margin-left: 16px;
+	padding: 13px;
+	font-size: 10px;
+	float: left;
+}
+.header2{
+	width: 300px;
+	height: 100px;
+	float: right;
+	margin-top: -489px;
+	margin-bottom:389px;
+
+}
+.cnimage{
+	width: 253px;
+	height: 43px;
+	padding: 16px;
+	
+}
+.secondbody{
+	width: 220px;
+	height: auto;
+	float: right;
+	margin-top: -414px;
+	margin-bottom:386px;
+}
+.lvimage{
+	width:146 px;
+	height:24 px;
+}
+.thumbnail{
+	width: 180px;
+	height: 114px;
+	border: 1px solid gray;
+	margin-left: -19px;
+}
+.body2text{
+	text-align: left;
+	color: white;
+	margin-left: -85px;
+	padding: 13px;
+	font-size: 10px;
+	float: right;
+}
+.album{
+	width: 139px;
+	height: 29px;
+	margin-top: 75px;
+}
+.rockstar{
+	width: 114px;
+	height: 73px;
+	margin-left: 14px;
+}
+.body3text{
+	text-align: left;
+	color: white;
+	margin-left: -85px;
+	padding: 13px;
+	font-size: 10px;
+	float: right;
+}
+footer{
+	height: 100px;
+	width: 303px;
+	background-color: gray;
+	color: white;
+	margin-top: 180px;
+	margin-left: -83px;
+	text-align: center;
+}
+.footer p a{
+	text-decoration: underline;
+	text-decoration-color: white;
+}
